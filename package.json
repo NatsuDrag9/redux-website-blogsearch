@@ -2,7 +2,7 @@
   "name": "redux-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://NatsuDrag9/github.io/redux-website-blogs",
+  "homepage": "https://natsudrag9.github.io/redux-website-blogsearch",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@reduxjs/toolkit": "^1.5.0",
